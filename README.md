@@ -4,6 +4,8 @@ Name: Rohit Varma
 
 Roll Number: 2022102028
 
+Directory Structure : 
+
 ├── assignments
 
 │   ├── 1(KNN + Linear Regression)
